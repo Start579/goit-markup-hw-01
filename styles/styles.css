@@ -1,8 +1,8 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
-/*main-styles*/
-.main {
+/*header-styles*/
+.header {
 display: flex;
 flex-direction: reverse;
 }
